@@ -1,5 +1,6 @@
 Flask==2.0.3
-google-api-python-client==2.122.0
-pandas==1.3.5
-Werkzeug==2.2.3
-gunicorn
+google-api-python-client==2.122.0 # Use your specific version
+pandas==1.3.5  # Use your specific version
+numpy==1.21.6   # Use your specific version!  Very important.
+python-dotenv==1.0.1 # Example version, use yours if different
+gunicorn==20.1.0 #It is good practice to add gunicorn in requirements.txt
