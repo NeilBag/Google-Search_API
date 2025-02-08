@@ -1,7 +1,7 @@
 Flask==2.0.3
 google-api-python-client==2.122.0
 pandas==1.3.5
-numpy==1.22.0  # Or whichever compatible version you settled on
+#numpy==1.22.0
 python-dotenv==1.0.1
 gunicorn==20.1.0
-Werkzeug==2.0.3  # Add this line
+Werkzeug==2.0.3
